@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    // ESLint: hiện lỗi lint trực tiếp trong editor
+    "dbaeumer.vscode-eslint",
+    // Prettier: format code khi save
+    "esbenp.prettier-vscode",
+    // React Native Tools
+    "msjsdiag.vscode-react-native"
+  ]
+}
